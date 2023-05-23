@@ -1,0 +1,33 @@
+
+.conteiner{
+
+/* estudos de padding*/
+    background-color: #555;
+width: 400px;
+/* padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px; */
+
+/* top;botton,left,right*/
+
+/* padding: 20px 10px 20px 10px; */
+/* top,botton - left,right */
+
+padding: 20px 10px;
+ 
+
+/* estudos de margin */
+/* margin-top:20px ;
+margin-left:20px ;
+margin-bottom: 20px;
+margin-right: ; */
+/* Todos os comandos que eu uso no padding eu posso usar no margin como*/
+/* TODOS */
+margin: 10px;
+
+/* borders */
+border: 2px solid #000;
+border-radius: 10px;
+
+}

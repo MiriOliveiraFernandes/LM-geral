@@ -1,0 +1,60 @@
+
+
+img{
+    width:300px;
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #fff;}
+.card{
+background-color: #DEDEDE ;
+padding: 10px;
+width: max-content;
+border: 1px solid #b8b8b8;
+display: inline-block;
+}
+
+.title{
+font-weight: bold;
+text-transform: capitalize;
+padding: 5px;
+
+}
+
+.text{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 16px;
+text-align: left;
+line-height: 1.4;
+width: 300px;
+
+}
+.central{
+margin: 0 auto;
+width: max-content;
+padding: 20px;
+color:black;
+background-color: cornflowerblue;
+pa
+}
+#yourcolor{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 16px;
+text-align: left;
+line-height: 1.4;
+width: 300px;
+color: blueviolet;
+}
+#cacto{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 16px;
+text-align: left;
+line-height: 1.4;
+width: 300px;
+color: rgb(91, 173, 105);
+}
