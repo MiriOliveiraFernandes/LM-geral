@@ -1,0 +1,32 @@
+.grid-container{ 
+
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    gap: 10px;
+    background-color: lightseagreen;
+    padding: 10px;
+
+}
+.grid-container div{
+    background-color: lightsteelblue;   
+    border:  1px solid white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center ;
+
+}
+.item-1{
+grid-row: 1 / 3;
+
+
+
+}
+.item-2{
+grid-row: 1 / span 3;
+
+}
+
+
+
+
+
