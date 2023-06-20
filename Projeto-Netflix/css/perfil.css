@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karantina' , cursive;
+}
+
+body{
+  display: flex;
+    background-color: #141414;
+}
+
+.perfis{
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 270px 25px;
+}
+
+.perfis img{
+    width: 100%;
+
+}
+.perfis a{
+    position: relative;
+    top:20px;
+    margin-left:60px;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#centro{
+    display: flex;
+    margin-left: 15%;
+}
